@@ -1,0 +1,690 @@
+[PROC] >> void Plane::stabilize() 26290410
+[PROC] << void Plane::stabilize() 26290410
+[PROC] >> void Plane::stabilize() 26290473
+[PROC] << void Plane::stabilize() 26290473
+[PROC] >> float Plane::calc_speed_scaler() 26290492
+[PROC][PROC] >> virtual void RC_Channels_Plane::read_mode_switch() 26290533
+[PROC] << virtual void RC_Channels_Plane::read_mode_switch() 2[PROC] >[PROC] >> virtual void RC_Channels_Plane::read_mode_switch() 26290672
+[PROC] >> virtual void RC_Channel_Plane::mode_switch_changed(RC_Channe 26290672
+[PROC] >> Mode* Plane::mode_from_mode_num(Mode::Number) 26290672
+[PROC] << Mode* Plane::mode_from_mode_num(Mode::Numbe[PROC] >> float Plane::calc_speed_scaler() 26290692
+[PROC] << float Plane::calc_speed_scaler() 262[PROC][PROC] >> void Plane::stabilize() 26290712
+[PROC] << void [PROC] >> virtual void RC_Channels_Plane::read_mode_switch() 26290812
+[PROC] << virtual void RC_Channels_Plane::read_mode_switch() 26290812
+[PROC] >> virtual void RC_Channels_Plane::read_mode_switch() 26290952
+[PROC] << virtual void RC_Channels_Plane::read_mode_switch() 26290952
+[PROC] >> virtual void RC_Channels_Plane::read_mode_switch() 26291092
+[PROC] << virtual void RC_Channels_Plane::read_mode_switch() 26291092
+[PROC] >> virtual void RC_Channels_Plane::read_mode_switch() 26291232
+[PROC] << virtual void RC_Channels_Plane::read_mode_switch() 26291232
+[PROC] >> virtual void RC_Channels_Plane::read_mode_switch() 26291372
+[PROC] << virtual void RC_Channels_Plane::read_mode_switch() 26291372
+[PROC] >> virtual void RC_Channels_Plane::read_mode_switch() 26291512
+[PROC] << virtual void RC_Channels_Plane::read_mode_switch() 26291512
+[PROC] >> virtual void RC_Channels_Plane::read_mode_switch() 26291652
+[PROC] << virtual void RC_Channels_Plane::read_mode_switch() 26291652
+utoLand::check_takeoff_direction() 26291192
+[PROC] << void ModeAut[PROC] >> void Plane::stabilize() 26291192[PROC] >> void ModeAutoLand::check_takeoff_direction() 26291252
+[PROC] << void ModeAutoLand::check_takeoff_direction() 26291252
+[PROC] >> void ModeAutoLand::check_takeoff_direction() 26291312
+[PROC] << void ModeAutoLand::check_takeoff_direction() 26291312
+[PROC] >> void ModeAutoLand::check_takeoff_direction() 26291372
+[PROC] << void ModeAutoLand::check_takeoff_direction() 26291372
+[PROC] >> void ModeAutoLand::check_takeoff_direction() 26291432
+[PROC] << void ModeAutoLand::check_takeoff_direction() 26291432
+[PROC] >> void ModeAutoLand::check_takeoff_direction() 26291492
+[PROC] << void ModeAutoLand::check_takeoff_direction() 26291492
+[PROC] >> void ModeAutoLand::check_takeoff_direction() 26291552
+[PROC] << void ModeAutoLand::check_takeoff_direction() 26291552
+[PROC] >> void ModeAutoLand::check_takeoff_direction() 26291612
+[PROC] << void ModeAutoLand::check_takeoff_direction() 26291612
+[PROC] >> void ModeAutoLand::check_takeoff_direction() 26291672
+[PROC] << void ModeAutoLand::check_takeoff_direction() 26291672
+[PROC] >> void ModeAutoLand::check_takeoff_direction() 26291732
+[PROC] << void ModeAutoLand::check_takeoff_direction() 26291732
+ze() 26291612
+[PROC] >> void Plane::stabilize() 26291672
+[PROC] << void Plane::stabilize() 26291672
+[PROC] >> float Plane::calc_speed_scaler() 26291692
+[PROC] << float Plane::calc_speed_scaler() 26291692
+[PROC] >> void Plane::stabilize() 26291732
+[PROC] << void Plane::stabilize() 26291732
+ode::reset_controllers() 26291012
+[PROC] << void Mode::reset_controllers() 26291012
+[PROC] >> void Mode::output_rudder_and_steering(float) 26291072
+[PROC] << void Mode::output_rudder_and_steering(float) 26291072
+[PROC] >> void Mode::reset_controllers() 26291072
+[PROC] << void Mode::reset_controllers() 26291072
+[PROC] >> virtual void Mode::update_target_altitude() 26291092
+[PROC] << virtual void Mode::update_target_altitude() 26291092
+[PROC] >> void Mode::output_rudder_and_steering(float) 26291132
+[PROC] << void Mode::output_rudder_and_steering(float) 26291132
+[PROC] >> void Mode::reset_controllers() 26291132
+[PROC] << void Mode::reset_controllers() 26291132
+[PROC] >> void Mode::output_rudder_and_steering(float) 26291192
+[PROC] << void Mode::output_rudder_and_steering(float) 26291192
+[PROC] >> void Mode::reset_controllers() 26291192
+[PROC] << void Mode::reset_controllers() 26291192
+[PROC] >> virtual void Mode::update_target_altitude() 26291193
+[PROC] << virtual void Mode::update_target_altitude() 26291193
+[PROC] >> void Mode::output_rudder_and_steering(float) 26291252
+[PROC] << void Mode::output_rudder_and_steering(float) 26291252
+[PROC] >> void Mode::reset_controllers() 26291252
+[PROC] << void Mode::reset_controllers() 26291252
+[PROC] >> virtual void Mode::update_target_altitude() 26291292
+[PROC] << virtual void Mode::update_target_altitude() 26291292
+[PROC] >> void Mode::output_rudder_and_steering(float) 26291312
+[PROC] << void Mode::output_rudder_and_steering(float) 26291312
+[PROC] >> void Mode::reset_controllers() 26291312
+[PROC] << void Mode::reset_controllers() 26291312
+[PROC] >> void Mode::output_rudder_and_steering(float) 26291372
+[PROC] << void Mode::output_rudder_and_steering(float) 26291372
+[PROC] >> void Mode::reset_controllers() 26291372
+[PROC] << void Mode::reset_controllers() 26291372
+[PROC] >> virtual void Mode::update_target_altitude() 26291392
+[PROC] << virtual void Mode::update_target_altitude() 26291392
+[PROC] >> void Mode::output_rudder_and_steering(float) 26291432
+[PROC] << void Mode::output_rudder_and_steering(float) 26291432
+[PROC] >> void Mode::reset_controllers() 26291432
+[PROC] << void Mode::reset_controllers() 26291432
+[PROC] >> void Mode::output_rudder_and_steering(float) 26291492
+[PROC] << void Mode::output_rudder_and_steering(float) 26291492
+[PROC] >> void Mode::reset_controllers() 26291492
+[PROC] << void Mode::reset_controllers() 26291492
+[PROC] >> virtual void Mode::update_target_altitude() 26291492
+[PROC] << virtual void Mode::update_target_altitude() 26291492
+[PROC] >> void Mode::output_rudder_and_steering(float) 26291552
+[PROC] << void Mode::output_rudder_and_steering(float) 26291552
+[PROC] >> void Mode::reset_controllers() 26291552
+[PROC] << void Mode::reset_controllers() 26291552
+[PROC] >> virtual void Mode::update_target_altitude() 26291592
+[PROC] << virtual void Mode::update_target_altitude() 26291592
+[PROC] >> void Mode::output_rudder_and_steering(float) 26291612
+[PROC] << void Mode::output_rudder_and_steering(float) 26291612
+[PROC] >> void Mode::reset_controllers() 26291612
+[PROC] << void Mode::reset_controllers() 26291612
+[PROC] >> void Mode::output_rudder_and_steering(float) 26291672
+[PROC] << void Mode::output_rudder_and_steering(float) 26291672
+[PROC] >> void Mode::reset_controllers() 26291672
+[PROC] << void Mode::reset_controllers() 26291672
+[PROC] >> virtual void Mode::update_target_altitude() 26291692
+[PROC] << virtual void Mode::update_target_altitude() 26291692
+[PROC] >> void Mode::output_rudder_and_steering(float) 26291732
+[PROC] << void Mode::output_rudder_and_steering(float) 26291732
+[PROC] >> void Mode::reset_controllers() 26291732
+[PROC] << void Mode::reset_controllers() 26291732
+l::update() 26291612
+[PROC] << virtual void ModeManual::update() 26291612
+[PROC] >> virtual void ModeManual::run() 26291612
+[PROC] << virtual void ModeManual::run() 26291612
+[PROC] >> virtual bool ModeManual::use_throttle_limits() const 26291612
+[PROC] << virtual bool ModeManual::use_throttle_limits() const 26291612
+[PROC] >> virtual void ModeManual::update() 26291672
+[PROC] << virtual void ModeManual::update() 26291672
+[PROC] >> virtual void ModeManual::run() 26291672
+[PROC] << virtual void ModeManual::run() 26291672
+[PROC] >> virtual bool ModeManual::use_throttle_limits() const 26291672
+[PROC] << virtual bool ModeManual::use_throttle_limits() const 26291672
+[PROC] >> virtual void ModeManual::update() 26291732
+[PROC] << virtual void ModeManual::update() 26291732
+[PROC] >> virtual void ModeManual::run() 26291732
+[PROC] << virtual void ModeManual::run() 26291732
+[PROC] >> virtual bool ModeManual::use_throttle_limits() const 26291732
+[PROC] << virtual bool ModeManual::use_throttle_limits() const 26291732
+og(uint32_t) 26291012
+[PROC] << bool Plane::should_log(uint32_t) 26291012
+[PROC] >> void Plane::check_short_rc_failsafe() 26291012
+[PROC] << void Plane::check_short_rc_failsafe() 26291012
+[PROC] >> void Plane::check_long_failsafe() 26291032
+[PROC] << void Plane::check_long_failsafe() 26291032
+[PROC] >> void failsafe_check_static() 26291040
+[PROC] << void failsafe_check_static() 26291040
+[PROC] >> bool Plane::should_log(uint32_t) 26291072
+[PROC] << bool Plane::should_log(uint32_t) 26291072
+[PROC] >> void Plane::check_short_rc_failsafe() 26291072
+[PROC] << void Plane::check_short_rc_failsafe() 26291072
+[PROC] >> void failsafe_check_static() 26291090
+[PROC] << void failsafe_check_static() 26291090
+[PROC] >> bool Plane::should_log(uint32_t) 26291132
+[PROC] << bool Plane::should_log(uint32_t) 26291132
+[PROC] >> void Plane::check_short_rc_failsafe() 26291132
+[PROC] << void Plane::check_short_rc_failsafe() 26291132
+[PROC] >> void failsafe_check_static() 26291140
+[PROC] << void failsafe_check_static() 26291140
+[PROC] >> void failsafe_check_static() 26291190
+[PROC] << void failsafe_check_static() 26291190
+[PROC] >> bool Plane::should_log(uint32_t) 26291192
+[PROC] << bool Plane::should_log(uint32_t) 26291192
+[PROC] >> void Plane::check_short_rc_failsafe() 26291192
+[PROC] << void Plane::check_short_rc_failsafe() 26291192
+[PROC] >> int8_t Plane::throttle_percentage() 26291193
+[PROC] << int8_t Plane::throttle_percentage() 26291193
+[PROC] >> void failsafe_check_static() 26291240
+[PROC] << void failsafe_check_static() 26291240
+[PROC] >> bool Plane::should_log(uint32_t) 26291252
+[PROC] << bool Plane::should_log(uint32_t) 26291252
+[PROC] >> void Plane::check_short_rc_failsafe() 26291252
+[PROC] << void Plane::check_short_rc_failsafe() 26291252
+[PROC] >> void failsafe_check_static() 26291290
+[PROC] << void failsafe_check_static() 26291290
+[PROC] >> bool Plane::should_log(uint32_t) 26291312
+[PROC] << bool Plane::should_log(uint32_t) 26291312
+[PROC] >> void Plane::check_short_rc_failsafe() 26291312
+[PROC] << void Plane::check_short_rc_failsafe() 26291312
+[PROC] >> void failsafe_check_static() 26291340
+[PROC] << void failsafe_check_static() 26291340
+[PROC] >> void Plane::check_long_failsafe() 26291352
+[PROC] << void Plane::check_long_failsafe() 26291352
+[PROC] >> bool Plane::should_log(uint32_t) 26291372
+[PROC] << bool Plane::should_log(uint32_t) 26291372
+[PROC] >> void Plane::check_short_rc_failsafe() 26291372
+[PROC] << void Plane::check_short_rc_failsafe() 26291372
+[PROC] >> void failsafe_check_static() 26291390
+[PROC] << void failsafe_check_static() 26291390
+[PROC] >> virtual uint32_t Plane::get_available_mode_enabled_mask() co 26291392
+[PROC] << virtual uint32_t Plane::get_available_mode_enabled_mask() co 26291392
+[PROC] >> bool Plane::should_log(uint32_t) 26291432
+[PROC] << bool Plane::should_log(uint32_t) 26291432
+[PROC] >> void Plane::check_short_rc_failsafe() 26291432
+[PROC] << void Plane::check_short_rc_failsafe() 26291432
+[PROC] >> void failsafe_check_static() 26291440
+[PROC] << void failsafe_check_static() 26291440
+[PROC] >> int8_t Plane::throttle_percentage() 26291452
+[PROC] << int8_t Plane::throttle_percentage() 26291452
+[PROC] >> void failsafe_check_static() 26291490
+[PROC] << void failsafe_check_static() 26291490
+[PROC] >> bool Plane::should_log(uint32_t) 26291492
+[PROC] << bool Plane::should_log(uint32_t) 26291492
+[PROC] >> void Plane::check_short_rc_failsafe() 26291492
+[PROC] << void Plane::check_short_rc_failsafe() 26291492
+[PROC] >> void failsafe_check_static() 26291540
+[PROC] << void failsafe_check_static() 26291540
+[PROC] >> bool Plane::should_log(uint32_t) 26291552
+[PROC] << bool Plane::should_log(uint32_t) 26291552
+[PROC] >> void Plane::check_short_rc_failsafe() 26291553
+[PROC] << void Plane::check_short_rc_failsafe() 26291553
+[PROC] >> void failsafe_check_static() 26291590
+[PROC] << void failsafe_check_static() 26291590
+[PROC] >> bool Plane::should_log(uint32_t) 26291612
+[PROC] << bool Plane::should_log(uint32_t) 26291612
+[PROC] >> void Plane::check_short_rc_failsafe() 26291612
+[PROC] << void Plane::check_short_rc_failsafe() 26291612
+[PROC] >> void failsafe_check_static() 26291640
+[PROC] << void failsafe_check_static() 26291640
+[PROC] >> bool Plane::should_log(uint32_t) 26291672
+[PROC] << bool Plane::should_log(uint32_t) 26291672
+[PROC] >> void Plane::check_short_rc_failsafe() 26291672
+[PROC] << void Plane::check_short_rc_failsafe() 26291672
+[PROC] >> void Plane::check_long_failsafe() 26291673
+[PROC] << void Plane::check_long_failsafe() 26291673
+[PROC] >> void failsafe_check_static() 26291690
+[PROC] << void failsafe_check_static() 26291690
+[PROC] >> int8_t Plane::throttle_percentage() 26291692
+[PROC] << int8_t Plane::throttle_percentage() 26291692
+[PROC] >> bool Plane::should_log(uint32_t) 26291732
+[PROC] << bool Plane::should_log(uint32_t) 26291732
+[PROC] >> void Plane::check_short_rc_failsafe() 26291732
+[PROC] << void Plane::check_short_rc_failsafe() 26291732
+[PROC] >> void failsafe_check_static() 26291740
+[PROC] << void failsafe_check_static() 26291740
+OC] << void Plane::update_GPS_50Hz() 26290773
+[PROC] >> void Plane::precland_update() 26290773
+[PROC] << void Plane::precland_update() 26290773
+[PROC] >> void Plane::update_quicktune() 26290773
+[PROC] << void Plane::update_quicktune() 26290773
+[PROC] >> bool Plane::flight_option_enabled(FlightOptions) const 26290792
+[PROC] << bool Plane::flight_option_enabled(FlightOptions) const 26290792
+[PROC] >> void Plane::update_GPS_10Hz() 26290792
+[PROC] << void Plane::update_GPS_10Hz() 26290792
+[PROC] >> void Plane::update_compass() 26290792
+[PROC] << void Plane::update_compass() 26290792
+[PROC] >> void Plane::update_alt() 26290792
+[PROC] >> void Plane::update_flight_stage() 26290792
+[PROC] >> void Plane::set_flight_stage(AP_FixedWing::FlightStage) 26290792
+[PROC] << void Plane::update_flight_stage() 26290792
+[PROC] << void Plane::update_alt() 26290792
+[PROC] >> void Plane::afs_fs_check() 26290792
+[PROC] << void Plane::afs_fs_check() 26290792
+[PROC] >> void Plane::update_logging10() 26290792
+[PROC] << void Plane::update_logging10() 26290792
+[PROC] >> void Plane::ahrs_update() 26290832
+[PROC] << void Plane::ahrs_update() 26290832
+[PROC] >> void Plane::update_control_mode() 26290832
+[PROC] >> void Plane::update_fly_forward() 26290832
+[PROC] << void Plane::update_fly_forward() 26290832
+[PROC] << void Plane::update_control_mode() 26290832
+[PROC] >> void Plane::update_speed_height() 26290832
+[PROC] << void Plane::update_speed_height() 26290832
+[PROC] >> void Plane::update_GPS_50Hz() 26290832
+[PROC] >> void Plane::update_current_loc() 26290832
+[PROC] << void Plane::update_current_loc() 26290832
+[PROC] << void Plane::update_GPS_50Hz() 26290832
+[PROC] >> void Plane::update_logging25() 26290832
+[PROC] << void Plane::update_logging25() 26290832
+[PROC] >> void Plane::precland_update() 26290832
+[PROC] << void Plane::precland_update() 26290832
+[PROC] >> void Plane::update_quicktune() 26290832
+[PROC] << void Plane::update_quicktune() 26290832
+[PROC] >> bool Plane::flight_option_enabled(FlightOptions) const 26290852
+[PROC] << bool Plane::flight_option_enabled(FlightOptions) const 26290852
+[PROC] >> void Plane::ahrs_update() 26290892
+[PROC] << void Plane::ahrs_update() 26290892
+[PROC] >> void Plane::update_control_mode() 26290892
+[PROC] >> void Plane::update_fly_forward() 26290892
+[PROC] << void Plane::update_fly_forward() 26290892
+[PROC] << void Plane::update_control_mode() 26290892
+[PROC] >> void Plane::update_speed_height() 26290892
+[PROC] << void Plane::update_speed_height() 26290892
+[PROC] >> void Plane::update_GPS_50Hz() 26290892
+[PROC] >> void Plane::update_current_loc() 26290892
+[PROC] << void Plane::update_current_loc() 26290892
+[PROC] << void Plane::update_GPS_50Hz() 26290892
+[PROC] >> void Plane::update_GPS_10Hz() 26290892
+[PROC] << void Plane::update_GPS_10Hz() 26290892
+[PROC] >> void Plane::update_compass() 26290892
+[PROC] << void Plane::update_compass() 26290892
+[PROC] >> void Plane::update_alt() 26290892
+[PROC] >> void Plane::update_flight_stage() 26290892
+[PROC] >> void Plane::set_flight_stage(AP_FixedWing::FlightStage) 26290892
+[PROC] << void Plane::update_flight_stage() 26290892
+[PROC] << void Plane::update_alt() 26290892
+[PROC] >> void Plane::afs_fs_check() 26290892
+[PROC] << void Plane::afs_fs_check() 26290892
+[PROC] >> void Plane::update_logging10() 26290892
+[PROC] << void Plane::update_logging10() 26290892
+[PROC] >> void Plane::precland_update() 26290892
+[PROC] << void Plane::precland_update() 26290892
+[PROC] >> void Plane::update_quicktune() 26290892
+[PROC] << void Plane::update_quicktune() 26290892
+[PROC] >> bool Plane::flight_option_enabled(FlightOptions) const 26290912
+[PROC] << bool Plane::flight_option_enabled(FlightOptions) const 26290912
+[PROC] >> void Plane::update_logging25() 26290912
+[PROC] << void Plane::update_logging25() 26290912
+[PROC] >> void Plane::ahrs_update() 26290952
+[PROC] << void Plane::ahrs_update() 26290952
+[PROC] >> void Plane::update_control_mode() 26290952
+[PROC] >> void Plane::update_fly_forward() 26290952
+[PROC] << void Plane::update_fly_forward() 26290952
+[PROC] << void Plane::update_control_mode() 26290952
+[PROC] >> void Plane::update_speed_height() 26290952
+[PROC] << void Plane::update_speed_height() 26290952
+[PROC] >> void Plane::update_GPS_50Hz() 26290952
+[PROC] >> void Plane::update_current_loc() 26290952
+[PROC] << void Plane::update_current_loc() 26290952
+[PROC] << void Plane::update_GPS_50Hz() 26290952
+[PROC] >> void Plane::precland_update() 26290953
+[PROC] << void Plane::precland_update() 26290953
+[PROC] >> void Plane::update_quicktune() 26290953
+[PROC] << void Plane::update_quicktune() 26290953
+[PROC] >> bool Plane::flight_option_enabled(FlightOptions) const 26290972
+[PROC] << bool Plane::flight_option_enabled(FlightOptions) const 26290972
+[PROC] >> void Plane::update_GPS_10Hz() 26290992
+[PROC] << void Plane::update_GPS_10Hz() 26290992
+[PROC] >> void Plane::update_compass() 26290992
+[PROC] << void Plane::update_compass() 26290992
+[PROC] >> void Plane::update_alt() 26290992
+[PROC] >> void Plane::update_flight_stage() 26290992
+[PROC] >> void Plane::set_flight_stage(AP_FixedWing::FlightStage) 26290992
+[PROC] << void Plane::update_flight_stage() 26290992
+[PROC] << void Plane::update_alt() 26290992
+[PROC] >> void Plane::afs_fs_check() 26290992
+[PROC] << void Plane::afs_fs_check() 26290992
+[PROC] >> void Plane::update_logging10() 26290992
+[PROC] << void Plane::update_logging10() 26290992
+[PROC] >> void Plane::update_logging25() 26290992
+[PROC] << void Plane::update_logging25() 26290992
+[PROC] >> void Plane::ahrs_update() 26291012
+[PROC] << void Plane::ahrs_update() 26291012
+[PROC] >> void Plane::update_control_mode() 26291012
+[PROC] >> void Plane::update_fly_forward() 26291012
+[PROC] << void Plane::update_fly_forward() 26291012
+[PROC] << void Plane::update_control_mode() 26291012
+[PROC] >> void Plane::update_speed_height() 26291012
+[PROC] << void Plane::update_speed_height() 26291012
+[PROC] >> void Plane::update_GPS_50Hz() 26291012
+[PROC] >> void Plane::update_current_loc() 26291012
+[PROC] << void Plane::update_current_loc() 26291013
+[PROC] << void Plane::update_GPS_50Hz() 26291013
+[PROC] >> void Plane::precland_update() 26291013
+[PROC] << void Plane::precland_update() 26291013
+[PROC] >> void Plane::update_quicktune() 26291013
+[PROC] << void Plane::update_quicktune() 26291013
+[PROC] >> bool Plane::flight_option_enabled(FlightOptions) const 26291032
+[PROC] << bool Plane::flight_option_enabled(FlightOptions) const 26291032
+[PROC] >> void Plane::three_hz_loop() 26291032
+[PROC] << void Plane::three_hz_loop() 26291032
+[PROC] >> void Plane::ahrs_update() 26291072
+[PROC] << void Plane::ahrs_update() 26291072
+[PROC] >> void Plane::update_control_mode() 26291072
+[PROC] >> void Plane::update_fly_forward() 26291072
+[PROC] << void Plane::update_fly_forward() 26291072
+[PROC] << void Plane::update_control_mode() 26291072
+[PROC] >> void Plane::update_speed_height() 26291072
+[PROC] << void Plane::update_speed_height() 26291072
+[PROC] >> void Plane::update_GPS_50Hz() 26291072
+[PROC] >> void Plane::update_current_loc() 26291072
+[PROC] << void Plane::update_current_loc() 26291072
+[PROC] << void Plane::update_GPS_50Hz() 26291072
+[PROC] >> void Plane::update_logging25() 26291073
+[PROC] << void Plane::update_logging25() 26291073
+[PROC] >> void Plane::precland_update() 26291073
+[PROC] << void Plane::precland_update() 26291073
+[PROC] >> void Plane::update_quicktune() 26291073
+[PROC] << void Plane::update_quicktune() 26291073
+[PROC] >> bool Plane::flight_option_enabled(FlightOptions) const 26291092
+[PROC] << bool Plane::flight_option_enabled(FlightOptions) const 26291092
+[PROC] >> void Plane::update_GPS_10Hz() 26291092
+[PROC] << void Plane::update_GPS_10Hz() 26291092
+[PROC] >> void Plane::update_compass() 26291092
+[PROC] << void Plane::update_compass() 26291092
+[PROC] >> void Plane::update_alt() 26291092
+[PROC] >> void Plane::update_flight_stage() 26291092
+[PROC] >> void Plane::set_flight_stage(AP_FixedWing::FlightStage) 26291092
+[PROC] << void Plane::update_flight_stage() 26291092
+[PROC] << void Plane::update_alt() 26291092
+[PROC] >> void Plane::afs_fs_check() 26291092
+[PROC] << void Plane::afs_fs_check() 26291092
+[PROC] >> void Plane::update_logging10() 26291092
+[PROC] << void Plane::update_logging10() 26291092
+[PROC] >> void Plane::ahrs_update() 26291132
+[PROC] << void Plane::ahrs_update() 26291132
+[PROC] >> void Plane::update_control_mode() 26291132
+[PROC] >> void Plane::update_fly_forward() 26291132
+[PROC] << void Plane::update_fly_forward() 26291132
+[PROC] << void Plane::update_control_mode() 26291132
+[PROC] >> void Plane::update_speed_height() 26291132
+[PROC] << void Plane::update_speed_height() 26291132
+[PROC] >> void Plane::update_GPS_50Hz() 26291132
+[PROC] >> void Plane::update_current_loc() 26291132
+[PROC] << void Plane::update_current_loc() 26291132
+[PROC] << void Plane::update_GPS_50Hz() 26291132
+[PROC] >> void Plane::precland_update() 26291132
+[PROC] << void Plane::precland_update() 26291132
+[PROC] >> void Plane::update_quicktune() 26291132
+[PROC] << void Plane::update_quicktune() 26291132
+[PROC] >> bool Plane::flight_option_enabled(FlightOptions) const 26291152
+[PROC] << bool Plane::flight_option_enabled(FlightOptions) const 26291152
+[PROC] >> void Plane::update_logging25() 26291152
+[PROC] << void Plane::update_logging25() 26291152
+[PROC] >> void Plane::ahrs_update() 26291192
+[PROC] << void Plane::ahrs_update() 26291192
+[PROC] >> void Plane::update_control_mode() 26291192
+[PROC] >> void Plane::update_fly_forward() 26291192
+[PROC] << void Plane::update_fly_forward() 26291192
+[PROC] << void Plane::update_control_mode() 26291192
+[PROC] >> void Plane::update_speed_height() 26291192
+[PROC] << void Plane::update_speed_height() 26291192
+[PROC] >> void Plane::update_GPS_50Hz() 26291192
+[PROC] >> void Plane::update_current_loc() 26291192
+[PROC] << void Plane::update_current_loc() 26291192
+[PROC] << void Plane::update_GPS_50Hz() 26291193
+[PROC] >> void Plane::update_GPS_10Hz() 26291193
+[PROC] << void Plane::update_GPS_10Hz() 26291193
+[PROC] >> void Plane::update_compass() 26291193
+[PROC] << void Plane::update_compass() 26291193
+[PROC] >> void Plane::update_alt() 26291193
+[PROC] >> void Plane::update_flight_stage() 26291193
+[PROC] >> void Plane::set_flight_stage(AP_FixedWing::FlightStage) 26291193
+[PROC] << void Plane::update_flight_stage() 26291193
+[PROC] << void Plane::update_alt() 26291193
+[PROC] >> void Plane::afs_fs_check() 26291193
+[PROC] << void Plane::afs_fs_check() 26291193
+[PROC] >> void Plane::update_logging10() 26291193
+[PROC] << void Plane::update_logging10() 26291193
+[PROC] >> void Plane::precland_update() 26291193
+[PROC] << void Plane::precland_update() 26291193
+[PROC] >> void Plane::update_quicktune() 26291193
+[PROC] << void Plane::update_quicktune() 26291193
+[PROC] >> bool Plane::flight_option_enabled(FlightOptions) const 26291212
+[PROC] << bool Plane::flight_option_enabled(FlightOptions) const 26291212
+[PROC] >> void Plane::update_logging25() 26291232
+[PROC] << void Plane::update_logging25() 26291232
+[PROC] >> void Plane::ahrs_update() 26291252
+[PROC] << void Plane::ahrs_update() 26291252
+[PROC] >> void Plane::update_control_mode() 26291252
+[PROC] >> void Plane::update_fly_forward() 26291252
+[PROC] << void Plane::update_fly_forward() 26291252
+[PROC] << void Plane::update_control_mode() 26291252
+[PROC] >> void Plane::update_speed_height() 26291252
+[PROC] << void Plane::update_speed_height() 26291253
+[PROC] >> void Plane::update_GPS_50Hz() 26291253
+[PROC] >> void Plane::update_current_loc() 26291253
+[PROC] << void Plane::update_current_loc() 26291253
+[PROC] << void Plane::update_GPS_50Hz() 26291253
+[PROC] >> void Plane::precland_update() 26291253
+[PROC] << void Plane::precland_update() 26291253
+[PROC] >> void Plane::update_quicktune() 26291253
+[PROC] << void Plane::update_quicktune() 26291253
+[PROC] >> bool Plane::flight_option_enabled(FlightOptions) const 26291272
+[PROC] << bool Plane::flight_option_enabled(FlightOptions) const 26291272
+[PROC] >> void Plane::update_GPS_10Hz() 26291292
+[PROC] << void Plane::update_GPS_10Hz() 26291292
+[PROC] >> void Plane::update_compass() 26291292
+[PROC] << void Plane::update_compass() 26291292
+[PROC] >> void Plane::update_alt() 26291292
+[PROC] >> void Plane::update_flight_stage() 26291292
+[PROC] >> void Plane::set_flight_stage(AP_FixedWing::FlightStage) 26291292
+[PROC] << void Plane::update_flight_stage() 26291292
+[PROC] << void Plane::update_alt() 26291292
+[PROC] >> void Plane::afs_fs_check() 26291292
+[PROC] << void Plane::afs_fs_check() 26291292
+[PROC] >> void Plane::update_logging10() 26291292
+[PROC] << void Plane::update_logging10() 26291292
+[PROC] >> void Plane::ahrs_update() 26291312
+[PROC] << void Plane::ahrs_update() 26291312
+[PROC] >> void Plane::update_control_mode() 26291312
+[PROC] >> void Plane::update_fly_forward() 26291312
+[PROC] << void Plane::update_fly_forward() 26291312
+[PROC] << void Plane::update_control_mode() 26291312
+[PROC] >> void Plane::update_speed_height() 26291312
+[PROC] << void Plane::update_speed_height() 26291312
+[PROC] >> void Plane::update_GPS_50Hz() 26291312
+[PROC] >> void Plane::update_current_loc() 26291312
+[PROC] << void Plane::update_current_loc() 26291312
+[PROC] << void Plane::update_GPS_50Hz() 26291312
+[PROC] >> void Plane::update_logging25() 26291313
+[PROC] << void Plane::update_logging25() 26291313
+[PROC] >> void Plane::precland_update() 26291313
+[PROC] << void Plane::precland_update() 26291313
+[PROC] >> void Plane::update_quicktune() 26291313
+[PROC] << void Plane::update_quicktune() 26291313
+[PROC] >> bool Plane::flight_option_enabled(FlightOptions) const 26291332
+[PROC] << bool Plane::flight_option_enabled(FlightOptions) const 26291332
+[PROC] >> void Plane::three_hz_loop() 26291352
+[PROC] << void Plane::three_hz_loop() 26291352
+[PROC] >> void Plane::ahrs_update() 26291372
+[PROC] << void Plane::ahrs_update() 26291372
+[PROC] >> void Plane::update_control_mode() 26291372
+[PROC] >> void Plane::update_fly_forward() 26291372
+[PROC] << void Plane::update_fly_forward() 26291372
+[PROC] << void Plane::update_control_mode() 26291372
+[PROC] >> void Plane::update_speed_height() 26291372
+[PROC] << void Plane::update_speed_height() 26291372
+[PROC] >> void Plane::update_GPS_50Hz() 26291372
+[PROC] >> void Plane::update_current_loc() 26291372
+[PROC] << void Plane::update_current_loc() 26291372
+[PROC] << void Plane::update_GPS_50Hz() 26291372
+[PROC] >> void Plane::precland_update() 26291372
+[PROC] << void Plane::precland_update() 26291372
+[PROC] >> void Plane::update_quicktune() 26291372
+[PROC] << void Plane::update_quicktune() 26291372
+[PROC] >> bool Plane::flight_option_enabled(FlightOptions) const 26291392
+[PROC] << bool Plane::flight_option_enabled(FlightOptions) const 26291392
+[PROC] >> void Plane::update_GPS_10Hz() 26291392
+[PROC] << void Plane::update_GPS_10Hz() 26291392
+[PROC] >> void Plane::update_compass() 26291392
+[PROC] << void Plane::update_compass() 26291392
+[PROC] >> void Plane::update_alt() 26291392
+[PROC] >> void Plane::update_flight_stage() 26291392
+[PROC] >> void Plane::set_flight_stage(AP_FixedWing::FlightStage) 26291392
+[PROC] << void Plane::update_flight_stage() 26291392
+[PROC] << void Plane::update_alt() 26291392
+[PROC] >> void Plane::afs_fs_check() 26291392
+[PROC] << void Plane::afs_fs_check() 26291392
+[PROC] >> void Plane::one_second_loop() 26291392
+[PROC] << void Plane::one_second_loop() 26291392
+[PROC] >> void Plane::airspeed_ratio_update() 26291392
+[PROC] << void Plane::airspeed_ratio_update() 26291392
+[PROC] >> void Plane::update_logging10() 26291392
+[PROC] << void Plane::update_logging10() 26291392
+[PROC] >> void Plane::update_logging25() 26291392
+[PROC] << void Plane::update_logging25() 26291392
+[PROC] >> virtual bool Plane::get_wp_distance_m(float&) const 26291392
+[PROC] << virtual bool Plane::get_wp_distance_m(float&) const 26291392
+[PROC] >> void Plane::ahrs_update() 26291432
+[PROC] << void Plane::ahrs_update() 26291432
+[PROC] >> void Plane::update_control_mode() 26291432
+[PROC] >> void Plane::update_fly_forward() 26291432
+[PROC] << void Plane::update_fly_forward() 26291432
+[PROC] << void Plane::update_control_mode() 26291432
+[PROC] >> void Plane::update_speed_height() 26291432
+[PROC] << void Plane::update_speed_height() 26291432
+[PROC] >> void Plane::update_GPS_50Hz() 26291432
+[PROC] >> void Plane::update_current_loc() 26291433
+[PROC] << void Plane::update_current_loc() 26291433
+[PROC] << void Plane::update_GPS_50Hz() 26291433
+[PROC] >> void Plane::precland_update() 26291433
+[PROC] << void Plane::precland_update() 26291433
+[PROC] >> void Plane::update_quicktune() 26291433
+[PROC] << void Plane::update_quicktune() 26291433
+[PROC] >> bool Plane::flight_option_enabled(FlightOptions) const 26291452
+[PROC] << bool Plane::flight_option_enabled(FlightOptions) const 26291452
+[PROC] >> void Plane::update_logging25() 26291472
+[PROC] << void Plane::update_logging25() 26291472
+[PROC] >> void Plane::ahrs_update() 26291492
+[PROC] << void Plane::ahrs_update() 26291492
+[PROC] >> void Plane::update_control_mode() 26291492
+[PROC] >> void Plane::update_fly_forward() 26291492
+[PROC] << void Plane::update_fly_forward() 26291492
+[PROC] << void Plane::update_control_mode() 26291492
+[PROC] >> void Plane::update_speed_height() 26291492
+[PROC] << void Plane::update_speed_height() 26291492
+[PROC] >> void Plane::update_GPS_50Hz() 26291492
+[PROC] >> void Plane::update_current_loc() 26291492
+[PROC] << void Plane::update_current_loc() 26291492
+[PROC] << void Plane::update_GPS_50Hz() 26291492
+[PROC] >> void Plane::update_GPS_10Hz() 26291492
+[PROC] << void Plane::update_GPS_10Hz() 26291492
+[PROC] >> void Plane::update_compass() 26291492
+[PROC] << void Plane::update_compass() 26291492
+[PROC] >> void Plane::update_alt() 26291492
+[PROC] >> void Plane::update_flight_stage() 26291492
+[PROC] >> void Plane::set_flight_stage(AP_FixedWing::FlightStage) 26291492
+[PROC] << void Plane::update_flight_stage() 26291492
+[PROC] << void Plane::update_alt() 26291492
+[PROC] >> void Plane::afs_fs_check() 26291492
+[PROC] << void Plane::afs_fs_check() 26291492
+[PROC] >> void Plane::update_logging10() 26291493
+[PROC] << void Plane::update_logging10() 26291493
+[PROC] >> void Plane::precland_update() 26291493
+[PROC] << void Plane::precland_update() 26291493
+[PROC] >> void Plane::update_quicktune() 26291493
+[PROC] << void Plane::update_quicktune() 26291493
+[PROC] >> bool Plane::flight_option_enabled(FlightOptions) const 26291512
+[PROC] << bool Plane::flight_option_enabled(FlightOptions) const 26291512
+[PROC] >> void Plane::ahrs_update() 26291552
+[PROC] << void Plane::ahrs_update() 26291552
+[PROC] >> void Plane::update_control_mode() 26291552
+[PROC] >> void Plane::update_fly_forward() 26291552
+[PROC] << void Plane::update_fly_forward() 26291552
+[PROC] << void Plane::update_control_mode() 26291552
+[PROC] >> void Plane::update_speed_height() 26291553
+[PROC] << void Plane::update_speed_height() 26291553
+[PROC] >> void Plane::update_GPS_50Hz() 26291553
+[PROC] >> void Plane::update_current_loc() 26291553
+[PROC] << void Plane::update_current_loc() 26291553
+[PROC] << void Plane::update_GPS_50Hz() 26291553
+[PROC] >> void Plane::update_logging25() 26291553
+[PROC] << void Plane::update_logging25() 26291553
+[PROC] >> void Plane::precland_update() 26291553
+[PROC] << void Plane::precland_update() 26291553
+[PROC] >> void Plane::update_quicktune() 26291553
+[PROC] << void Plane::update_quicktune() 26291553
+[PROC] >> bool Plane::flight_option_enabled(FlightOptions) const 26291572
+[PROC] << bool Plane::flight_option_enabled(FlightOptions) const 26291572
+[PROC] >> void Plane::update_GPS_10Hz() 26291592
+[PROC] << void Plane::update_GPS_10Hz() 26291592
+[PROC] >> void Plane::update_compass() 26291592
+[PROC] << void Plane::update_compass() 26291592
+[PROC] >> void Plane::update_alt() 26291592
+[PROC] >> void Plane::update_flight_stage() 26291592
+[PROC] >> void Plane::set_flight_stage(AP_FixedWing::FlightStage) 26291592
+[PROC] << void Plane::update_flight_stage() 26291592
+[PROC] << void Plane::update_alt() 26291592
+[PROC] >> void Plane::afs_fs_check() 26291592
+[PROC] << void Plane::afs_fs_check() 26291592
+[PROC] >> void Plane::update_logging10() 26291592
+[PROC] << void Plane::update_logging10() 26291592
+[PROC] >> void Plane::ahrs_update() 26291612
+[PROC] << void Plane::ahrs_update() 26291612
+[PROC] >> void Plane::update_control_mode() 26291612
+[PROC] >> void Plane::update_fly_forward() 26291612
+[PROC] << void Plane::update_fly_forward() 26291612
+[PROC] << void Plane::update_control_mode() 26291612
+[PROC] >> void Plane::update_speed_height() 26291612
+[PROC] << void Plane::update_speed_height() 26291612
+[PROC] >> void Plane::update_GPS_50Hz() 26291612
+[PROC] >> void Plane::update_current_loc() 26291612
+[PROC] << void Plane::update_current_loc() 26291612
+[PROC] << void Plane::update_GPS_50Hz() 26291612
+[PROC] >> void Plane::precland_update() 26291612
+[PROC] << void Plane::precland_update() 26291612
+[PROC] >> void Plane::update_quicktune() 26291612
+[PROC] << void Plane::update_quicktune() 26291612
+[PROC] >> bool Plane::flight_option_enabled(FlightOptions) const 26291632
+[PROC] << bool Plane::flight_option_enabled(FlightOptions) const 26291632
+[PROC] >> void Plane::update_logging25() 26291632
+[PROC] << void Plane::update_logging25() 26291632
+[PROC] >> void Plane::ahrs_update() 26291672
+[PROC] << void Plane::ahrs_update() 26291672
+[PROC] >> void Plane::update_control_mode() 26291672
+[PROC] >> void Plane::update_fly_forward() 26291672
+[PROC] << void Plane::update_fly_forward() 26291672
+[PROC] << void Plane::update_control_mode() 26291672
+[PROC] >> void Plane::update_speed_height() 26291672
+[PROC] << void Plane::update_speed_height() 26291672
+[PROC] >> void Plane::update_GPS_50Hz() 26291672
+[PROC] >> void Plane::update_current_loc() 26291673
+[PROC] << void Plane::update_current_loc() 26291673
+[PROC] << void Plane::update_GPS_50Hz() 26291673
+[PROC] >> void Plane::three_hz_loop() 26291673
+[PROC] << void Plane::three_hz_loop() 26291673
+[PROC] >> void Plane::precland_update() 26291673
+[PROC] << void Plane::precland_update() 26291673
+[PROC] >> void Plane::update_quicktune() 26291673
+[PROC] << void Plane::update_quicktune() 26291673
+[PROC] >> bool Plane::flight_option_enabled(FlightOptions) const 26291692
+[PROC] << bool Plane::flight_option_enabled(FlightOptions) const 26291692
+[PROC] >> void Plane::update_GPS_10Hz() 26291692
+[PROC] << void Plane::update_GPS_10Hz() 26291692
+[PROC] >> void Plane::update_compass() 26291692
+[PROC] << void Plane::update_compass() 26291692
+[PROC] >> void Plane::update_alt() 26291692
+[PROC] >> void Plane::update_flight_stage() 26291692
+[PROC] >> void Plane::set_flight_stage(AP_FixedWing::FlightStage) 26291692
+[PROC] << void Plane::update_flight_stage() 26291692
+[PROC] << void Plane::update_alt() 26291692
+[PROC] >> void Plane::afs_fs_check() 26291692
+[PROC] << void Plane::afs_fs_check() 26291692
+[PROC] >> void Plane::update_logging10() 26291692
+[PROC] << void Plane::update_logging10() 26291692
+[PROC] >> void Plane::update_logging25() 26291712
+[PROC] << void Plane::update_logging25() 26291712
+[PROC] >> void Plane::ahrs_update() 26291732
+[PROC] << void Plane::ahrs_update() 26291732
+[PROC] >> void Plane::update_control_mode() 26291732
+[PROC] >> void Plane::update_fly_forward() 26291732
+[PROC] << void Plane::update_fly_forward() 26291732
+[PROC] << void Plane::update_control_mode() 26291732
+[PROC] >> void Plane::update_speed_height() 26291732
+[PROC] << void Plane::update_speed_height() 26291732
+[PROC] >> void Plane::update_GPS_50Hz() 26291732
+[PROC] >> void Plane::update_current_loc() 26291732
+[PROC] << void Plane::update_current_loc() 26291732
+[PROC] << void Plane::update_GPS_50Hz() 26291732
+[PROC] >> void Plane::precland_update() 26291733
+[PROC] << void Plane::precland_update() 26291733
+[PROC] >> void Plane::update_quicktune() 26291733
+[PROC] << void Plane::update_quicktune() 26291733
+[PROC] >> bool Plane::flight_option_enabled(FlightOptions) const 26291752
+[PROC] << bool Plane::flight_option_enabled(FlightOptions) const 26291752

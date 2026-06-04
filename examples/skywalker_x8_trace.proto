@@ -1,0 +1,33 @@
+syntax = "proto3";
+
+// Companion schema for trace_tree.py --format protobuf output.
+// Decode: protoc --decode=TraceReport <basename>_trace.proto < <basename>_trace.pb
+
+// Aggregated call-tree node (mirrors CallNode in trace_tree.py).
+message CallNode {
+  string            name     = 1;   // normalised __PRETTY_FUNCTION__
+  uint32            calls    = 2;   // total observed invocations
+  double            avg_ms   = 3;   // average wall-clock duration (ms)
+  repeated CallNode children = 4;   // children, ordered by call count desc
+}
+
+// Per-signal statistics from [DATA] trace lines (mirrors DataSeries).
+message DataSeries {
+  string name    = 1;
+  uint32 count   = 2;
+  double mean    = 3;
+  double minimum = 4;
+  double maximum = 5;
+  double last    = 6;
+}
+
+// Top-level report — one per trace_tree.py run.
+message TraceReport {
+  string            source_file         = 1;
+  uint32            proc_lines          = 2;
+  uint32            data_lines          = 3;
+  uint32            skipped_exits       = 4;
+  uint32            open_enters_at_eof  = 5;
+  repeated CallNode   roots             = 6;   // top-level call nodes
+  repeated DataSeries data_series       = 7;   // all observed DATA signals
+}
