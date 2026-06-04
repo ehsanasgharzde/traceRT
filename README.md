@@ -201,9 +201,9 @@ Drag the `<log>_trace.json` file onto the page. You get a normal flame-graph
 timeline with begin/end slices for every traced function, and a slice
 flamegraph view for aggregated time per function.
 
-![Perfetto timeline view](https://github.com/ehsanasgharzde/traceRT/images/1.png)
+![Perfetto timeline view](images/1.png)
 
-![Perfetto slice flamegraph](https://github.com/ehsanasgharzde/traceRT/images/2.png)
+![Perfetto slice flamegraph](images/2.png)
 
 ### omute.net JSON editor — `https://omute.net/editor`
 
@@ -211,7 +211,7 @@ Useful when you want to walk the raw JSON structure. The editor expands the
 `traceEvents` array as a node graph, which is handy for spot-checking that
 the begin/end pairs make sense.
 
-![omute.net JSON node graph](https://github.com/ehsanasgharzde/traceRT/images/4.png)
+![omute.net JSON node graph](images/4.png)
 
 ### protoc
 
@@ -270,4 +270,4 @@ If `M` is very high your rate limit is too aggressive. Lower
 
 The traceRT licensed under MIT, use freely!
 
-- [Overview of license](https://github.com/ehsanasgharzde/traceRT/LICENSE)
+- [MIT](LICENSE)
